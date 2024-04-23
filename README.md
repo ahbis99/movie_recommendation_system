@@ -27,3 +27,20 @@ Project is created with **Python**. The main packages used:
 ## Visualizations from project
 
 ### Visualization of the Webapp
+
+#### Main Screen
+
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 05 24" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/9e72bfde-6a5f-4920-b37f-9b683c5b86b5">
+
+#### Tailored Recommendaitons
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 05 48" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/34495c92-152c-46b5-8395-d5c4831b3d7c">
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 06 10" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/551d3c6a-23d7-443d-aca2-22e32e9fffc8">
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 06 26" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/7b6a3a6b-805b-4517-875a-42be7586b0da">
+
+#### Chatbot
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 08 54" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/30c576f9-a8a5-40ae-9d5a-8a5820a146ea">
+<img width="1440" alt="Ekran Resmi 2024-04-23 20 09 42" src="https://github.com/ahbis99/movie_recommendation_system/assets/76615322/53ff70d3-c2f8-45ba-b3ef-fdc4c04f53af">
+
+
+
+
