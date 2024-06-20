@@ -18,7 +18,6 @@ This project's flexibility extends beyond movie recommendations; it can be adapt
 Project is created with **Python**. The main packages used:
 
 * Langchain (LLM)
-* Networkx (Network Analysis)
 * Numpy (Data analysis and cleaning)
 * Crewai (Crawling Internet for Chatbot)
 * Networkx (Network analysis)
